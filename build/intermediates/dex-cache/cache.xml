@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_439adf386fdbfd7fbc064d25f4e1d0dbea682b28.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="452a9bb92dc69aaecb4330d75b998358e37681ae">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/instant-run_ea0daad821cb4bad47d56bd1d6db0e2fafb44da7.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_6e6b9a5abc32b7bcb43455f5d780ad00ffc48f5c.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_84b62a993a80f0e1e54bdd986f1b4737c2d75061.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/.gradle/caches/modules-2/files-2.1/com.google.zxing/core/3.2.1/2287494d4f5f9f3a9a2bb6980e3f32053721b315/core-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/core-3.2.1_fb376f51647cd909e265de1471b95605e75671ac.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/RuoWei/SDK/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_088e737279eea6308924b79db28f6479fe3713fe.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="faa632509cef3e0a72dde14c74f14f7ba18a7d75">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_bb819a238717a96ddf623d6e4e87225320ec2390.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_67a021e0b232f42e8fcd8ce92f1a49dee52ced30.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/.gradle/caches/modules-2/files-2.1/com.google.zxing/android-core/3.2.1/c1de4bba95fac060cc96a3af39ef6ffd17e18157/android-core-3.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c1de4bba95fac060cc96a3af39ef6ffd17e18157">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/android-core-3.2.1_afebb9e72c2d64c6c552df8fa693be9da9db9995.jar" />
+    </item>
+    <item
+        jar="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/lihongwei/Documents/kouliang/hechengtupian/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_c7e4bc9f764e1a0fba1543c32624e7ba7909072c.jar" />
+    </item>
+
+</items>
